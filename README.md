@@ -1,4 +1,4 @@
-<img width="1584" height="672" alt="Gemini_Generated_Image_q3068rq3068rq306" src="https://github.com/user-attachments/assets/a5eae5dc-474e-4c13-8533-1cc55a19295f" />
+<img width="1584" height="672" alt="Gemini_Generated_Image_2t5qcd2t5qcd2t5q" src="https://github.com/user-attachments/assets/6b6217b6-258f-4d4e-831e-91af16ea5fed" />
 
 
 # Plantapp 🌱
