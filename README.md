@@ -1,5 +1,4 @@
-![Uploading Gemini_Generated_Image_5l1zyj5l1zyj5l1z.jpg…]()
-
+<img width="1200" height="896" alt="planto" src="https://github.com/user-attachments/assets/c8c5dea0-2424-4520-80e3-cde39f29c74a" />
 
 # Plantapp 🌱
 
