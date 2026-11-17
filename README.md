@@ -1,5 +1,6 @@
 ![Uploading Gemini_Generated_Image_5l1zyj5l1zyj5l1z.jpg…]()
 
+
 # Plantapp 🌱
 
 A simple and intuitive iOS plant-care companion built to help you keep track of your plants and their watering schedules
